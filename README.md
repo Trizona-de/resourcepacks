@@ -6,6 +6,7 @@
 |---|---|---|
 | RiftTycoon | `rifttycoon/RiftTycoon-Resourcepack.zip` | `https://raw.githubusercontent.com/Trizona-de/resourcepacks/main/rifttycoon/RiftTycoon-Resourcepack.zip` |
 | ZoneWars | `zonewars/ZoneWars-Resourcepack.zip` | `https://raw.githubusercontent.com/Trizona-de/resourcepacks/main/zonewars/ZoneWars-Resourcepack.zip` |
+| Lobby | `lobby/Lobby-Resourcepack.zip` | `https://raw.githubusercontent.com/Trizona-de/resourcepacks/main/lobby/Lobby-Resourcepack.zip` |
 
 Die Packs werden automatisch aus den jeweiligen (privaten) Plugin-Repos gebaut und hier aktualisiert.
 Bitte keine Dateien von Hand überschreiben, die automatisch gepflegt werden.
